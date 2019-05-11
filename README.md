@@ -1,4 +1,4 @@
-# PLC-One-after-the-other
+# PLC-One-after-the-other-1
 Turning on motors 1-3 in the correct sequence, but turning them off vice versa.
 
 ![Diagram](https://user-images.githubusercontent.com/41565191/57371678-a2b92d80-71a8-11e9-8db8-3602fa520fab.PNG)
